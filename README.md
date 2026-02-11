@@ -3,6 +3,7 @@
 ## Personal Information
 
 - **My Name:** Scott
+- **My Email:** scott.french342@gmail.com
 - **Wife's Name:** Olivia
 - **Daughter's Name:** Heidi
 
